@@ -1,0 +1,1771 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course | Academic</title>
+    <link>https://example.com/tag/course/</link>
+      <atom:link href="https://example.com/tag/course/index.xml" rel="self" type="application/rss+xml" />
+    <description>Course</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Course</title>
+      <link>https://example.com/tag/course/</link>
+    </image>
+    
+    <item>
+      <title>Прохождение курса</title>
+      <link>https://example.com/project/course/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/course/</guid>
+      <description>&lt;h1 id=&#34;цель-курса&#34;&gt;Цель курса&lt;/h1&gt;
+&lt;p&gt;Цель данного курса - возможность изучить работу Интернета и его “слабые” места, показать, как отличать шифрование от электронной подписи, узнать, как работают электронные платежи.&lt;/p&gt;
+&lt;h2 id=&#34;часть-1-как-работает-интернет-базовые-сетевые-протоколы&#34;&gt;Часть 1. Как работает интернет: базовые сетевые протоколы&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-01&#34;&gt;Задание 1&lt;/a&gt;: Выберите протокол прикладного уровня.&lt;/p&gt;
+&lt;p&gt;Из всех вариантов ответа HTTPS является протоколом прикладного уровня; UDP, TCP - транспортные, IP - сетевой.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-01&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/01_huba496422457c2c19a3f28010ad203298_41837_3e58279158ed2731c75d7a564a5574ec.webp 400w,
+               /project/course/image/01_huba496422457c2c19a3f28010ad203298_41837_6bfafbba1d0fdd2ed5362a8e310275bf.webp 760w,
+               /project/course/image/01_huba496422457c2c19a3f28010ad203298_41837_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/01_huba496422457c2c19a3f28010ad203298_41837_3e58279158ed2731c75d7a564a5574ec.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;406&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-02&#34;&gt;Задание 2&lt;/a&gt;: На каком уровне работает протокол TCP?&lt;/p&gt;
+&lt;p&gt;TCP - протокол транспортного уровня.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-02&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/02_hu6e7ccf883fbdf602909e1bd55a28ab48_49309_b24c478ddd2c567e91c623edbdafb487.webp 400w,
+               /project/course/image/02_hu6e7ccf883fbdf602909e1bd55a28ab48_49309_31ae6cd85dced5d0a02e002013da823e.webp 760w,
+               /project/course/image/02_hu6e7ccf883fbdf602909e1bd55a28ab48_49309_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/02_hu6e7ccf883fbdf602909e1bd55a28ab48_49309_b24c478ddd2c567e91c623edbdafb487.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-03&#34;&gt;Задание 3&lt;/a&gt;: Выберите все корректные адреса IPv4.&lt;/p&gt;
+&lt;p&gt;Все числа в IP адресе версии 4 лежат в промежутке от 0 до 255, поэтому выбираем ответы 90.11.90.22 и 25.198.0.15.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-03&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/03_hu93a4c8bef00585b4fb736c7b80d8bdeb_63965_2aaecf85bf302864a3bc41b3bafc4428.webp 400w,
+               /project/course/image/03_hu93a4c8bef00585b4fb736c7b80d8bdeb_63965_58a89b3929d37d1c4eacc9da429e3a08.webp 760w,
+               /project/course/image/03_hu93a4c8bef00585b4fb736c7b80d8bdeb_63965_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/03_hu93a4c8bef00585b4fb736c7b80d8bdeb_63965_2aaecf85bf302864a3bc41b3bafc4428.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;458&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-04&#34;&gt;Задание 4&lt;/a&gt;: DNS сервер&amp;hellip;&lt;/p&gt;
+&lt;p&gt;В задании нужно выбрать один вариант ответ, подходящий под определение DNS сервера. DNS сервер сопоставляет IP адреса доменным именам.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-04&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/04_hu6943fff9aca6fda2644e4a8f909edd4b_54204_394e4e924520680a59b243f6b10d5433.webp 400w,
+               /project/course/image/04_hu6943fff9aca6fda2644e4a8f909edd4b_54204_f82919de30a9212b9385eef76a1ee3fd.webp 760w,
+               /project/course/image/04_hu6943fff9aca6fda2644e4a8f909edd4b_54204_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/04_hu6943fff9aca6fda2644e4a8f909edd4b_54204_394e4e924520680a59b243f6b10d5433.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;408&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-05&#34;&gt;Задание 5&lt;/a&gt;: Выберите корректную последовательность протоколов в модели TCP/IP.&lt;/p&gt;
+&lt;p&gt;Последовательность протоколов в модели TCP/IP: прикладной -&amp;gt; транспортный -&amp;gt; сетевой -&amp;gt; канальный.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-05&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/05_huea5146d5c906373887d5b7b71876c84c_57384_53fb059cb1fd07bc7b549e0963913619.webp 400w,
+               /project/course/image/05_huea5146d5c906373887d5b7b71876c84c_57384_8c3bd6053bee9448cb7d0244ffcc0db2.webp 760w,
+               /project/course/image/05_huea5146d5c906373887d5b7b71876c84c_57384_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/05_huea5146d5c906373887d5b7b71876c84c_57384_53fb059cb1fd07bc7b549e0963913619.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-06&#34;&gt;Задание 6&lt;/a&gt;: Протокол http предполагает&amp;hellip;&lt;/p&gt;
+&lt;p&gt;HTTP передает данные  открытом виде, а HTTPS в зашифрованном.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-06&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/06_hu6e5ddaf163f49e831cda3a460c19fa01_46233_ede762a68fec12066ac534caf99559f4.webp 400w,
+               /project/course/image/06_hu6e5ddaf163f49e831cda3a460c19fa01_46233_19f6796e6c1852b79e12676f85453d9f.webp 760w,
+               /project/course/image/06_hu6e5ddaf163f49e831cda3a460c19fa01_46233_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/06_hu6e5ddaf163f49e831cda3a460c19fa01_46233_ede762a68fec12066ac534caf99559f4.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;367&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-07&#34;&gt;Задание 7&lt;/a&gt;: Протокол https состоит из&amp;hellip;&lt;/p&gt;
+&lt;p&gt;HTTPS состоит из двух фаз: рукопожатия и передачи данных.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-07&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/07_huf6d7f4ec26a88ec558e909f1f9756c54_57419_dcbdf57bfa650470f9e5d95fe51bfbae.webp 400w,
+               /project/course/image/07_huf6d7f4ec26a88ec558e909f1f9756c54_57419_fbf6ca4d2471d9f38b4a953b63acc7ba.webp 760w,
+               /project/course/image/07_huf6d7f4ec26a88ec558e909f1f9756c54_57419_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/07_huf6d7f4ec26a88ec558e909f1f9756c54_57419_dcbdf57bfa650470f9e5d95fe51bfbae.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;407&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-08&#34;&gt;Задание 8&lt;/a&gt;: Версия протокола TLS определяется&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Версия определяется и клиентом, и сервером в процессе “переговоров”.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-08&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/08_hu687a69fadf72cb4d716d9b75c63d309c_49557_a1bdc7b4d382eb54921ef6282971eff2.webp 400w,
+               /project/course/image/08_hu687a69fadf72cb4d716d9b75c63d309c_49557_f5745c9d122f82b0a2e636646650f9cf.webp 760w,
+               /project/course/image/08_hu687a69fadf72cb4d716d9b75c63d309c_49557_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/08_hu687a69fadf72cb4d716d9b75c63d309c_49557_a1bdc7b4d382eb54921ef6282971eff2.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;411&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-09&#34;&gt;Задание 9&lt;/a&gt;: В фазе “рукопожатия” протокола TLS не предусмотрено&amp;hellip;&lt;/p&gt;
+&lt;p&gt;В этой фазе не предусмотрено шифрование данных.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-09&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/09_huc02b22b5a029d3c15d8e1b4fd3a4a63a_53706_ef2ad5dd8fdf6283d40941939bfeed51.webp 400w,
+               /project/course/image/09_huc02b22b5a029d3c15d8e1b4fd3a4a63a_53706_143192795c5c9f9be2e84f50456a27fd.webp 760w,
+               /project/course/image/09_huc02b22b5a029d3c15d8e1b4fd3a4a63a_53706_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/09_huc02b22b5a029d3c15d8e1b4fd3a4a63a_53706_ef2ad5dd8fdf6283d40941939bfeed51.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;393&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;часть-2-персонализация-сети&#34;&gt;Часть 2. Персонализация сети&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-10&#34;&gt;Задание 10&lt;/a&gt;: Куки хранят:&amp;hellip;&lt;/p&gt;
+&lt;p&gt;В задании нужно выбрать, какую информацию хранят куки. Из всех вариантов верными будут: id сессии и идентификатор пользователя. IP адрес и пароль пользователя куки не сохраняют.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-10&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/10_hu9a7de67522cc51385a14d5f37be899e5_55724_2eb71757cc7deed1c47d2e79ba722b55.webp 400w,
+               /project/course/image/10_hu9a7de67522cc51385a14d5f37be899e5_55724_820f14b2c3738dad8b59a9d304c3591e.webp 760w,
+               /project/course/image/10_hu9a7de67522cc51385a14d5f37be899e5_55724_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/10_hu9a7de67522cc51385a14d5f37be899e5_55724_2eb71757cc7deed1c47d2e79ba722b55.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;455&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-11&#34;&gt;Задание 11&lt;/a&gt;: Куки не используются для&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Куки не могут использоваться для улучшения надежности соединения.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-11&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/11_hu56ae983052e6b344f35c31b96f558243_50955_677157075efd888ac37e4bdb326c0bf4.webp 400w,
+               /project/course/image/11_hu56ae983052e6b344f35c31b96f558243_50955_11ec4e56bcd35b89a1fb15466a2c16e5.webp 760w,
+               /project/course/image/11_hu56ae983052e6b344f35c31b96f558243_50955_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/11_hu56ae983052e6b344f35c31b96f558243_50955_677157075efd888ac37e4bdb326c0bf4.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-12&#34;&gt;Задание 12&lt;/a&gt;: Куки генерируются&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Правильный ответ - сервером.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-12&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/12_hu03218525cc81e0df3a357e2ee92914df_36771_013a4c523c526d4afd5b33c81173bdcb.webp 400w,
+               /project/course/image/12_hu03218525cc81e0df3a357e2ee92914df_36771_3cc932439621566d56b933fa077561f1.webp 760w,
+               /project/course/image/12_hu03218525cc81e0df3a357e2ee92914df_36771_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/12_hu03218525cc81e0df3a357e2ee92914df_36771_013a4c523c526d4afd5b33c81173bdcb.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;364&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-13&#34;&gt;Задание 13&lt;/a&gt;: Сессионные куки хранятся в браузере? (рис. [-@fig:013]).&lt;/p&gt;
+&lt;p&gt;Ответ - Да, на время пользования веб-сайтом.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-13&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/13_hu413fe7ae5a2b002a9f415a56d225a53e_44681_8e122e12f797e450dc523bd6779cc10a.webp 400w,
+               /project/course/image/13_hu413fe7ae5a2b002a9f415a56d225a53e_44681_04ea66c8bda62273119154f0d8c31d86.webp 760w,
+               /project/course/image/13_hu413fe7ae5a2b002a9f415a56d225a53e_44681_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/13_hu413fe7ae5a2b002a9f415a56d225a53e_44681_8e122e12f797e450dc523bd6779cc10a.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;392&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;часть-3-браузер-tor-анонимизация&#34;&gt;Часть 3. Браузер TOR. Анонимизация&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-14&#34;&gt;Задание 14&lt;/a&gt;: Сколько промежуточных узлов в луковой сети TOR?&lt;/p&gt;
+&lt;p&gt;В сети TOR ровно 3 промежуточных узла, так как меньшее количество не обеспечивает нужную анонимизацию, а большее количество не дает большую анонимизацию.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-14&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/14_hu5dafe77177e3bbf69c32baed60e784e4_40524_11b222dd77ede50d94af7ae7d16c1029.webp 400w,
+               /project/course/image/14_hu5dafe77177e3bbf69c32baed60e784e4_40524_09b6dff5e7436bd863a4c9dd43398ef4.webp 760w,
+               /project/course/image/14_hu5dafe77177e3bbf69c32baed60e784e4_40524_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/14_hu5dafe77177e3bbf69c32baed60e784e4_40524_11b222dd77ede50d94af7ae7d16c1029.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;387&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-15&#34;&gt;Задание 15&lt;/a&gt;: IP-адрес получателя известен&amp;hellip;&lt;/p&gt;
+&lt;p&gt;В заданиии нужно выбрать кому известен IP-адрес получателя. Отввет - отправителю, выходному узлу.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-15&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/15_hudedde4d0551675163bf4e2e9b74c7874_59650_53ccb86ea59e668babdebe1f4919418f.webp 400w,
+               /project/course/image/15_hudedde4d0551675163bf4e2e9b74c7874_59650_eb8c7292dd7aa443d58f77008725ea4d.webp 760w,
+               /project/course/image/15_hudedde4d0551675163bf4e2e9b74c7874_59650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/15_hudedde4d0551675163bf4e2e9b74c7874_59650_53ccb86ea59e668babdebe1f4919418f.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;459&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-16&#34;&gt;Задание 16&lt;/a&gt;: Отправитель генерирует общий секретный ключ&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Генерирует общий секретный ключ с охранным, промежуточным и выходном узлом.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-16&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/16_hu69efaf97b55f4997287436cae054e2d7_48205_3a16ebf62a5346b9f53168fdd5e7cf29.webp 400w,
+               /project/course/image/16_hu69efaf97b55f4997287436cae054e2d7_48205_ab75fbd0e99437ed3211d33f94e9d6f6.webp 760w,
+               /project/course/image/16_hu69efaf97b55f4997287436cae054e2d7_48205_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/16_hu69efaf97b55f4997287436cae054e2d7_48205_3a16ebf62a5346b9f53168fdd5e7cf29.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;407&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-17&#34;&gt;Задание 17&lt;/a&gt;: Должен ли получатель использовать браузер Tor (или другой браузер, основанный на луковой маршрутизации) для успешного получения пакетов?&lt;/p&gt;
+&lt;p&gt;Нет, получить пакет данных можно и с помощью других браузеров.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/17_hufa531d69c2c106adcea2f587c0d669ab_46476_1b199b9aa410478e14f1e5490ae70d9c.webp 400w,
+               /project/course/image/17_hufa531d69c2c106adcea2f587c0d669ab_46476_21e0a1dcae2e604254e49a924ac37441.webp 760w,
+               /project/course/image/17_hufa531d69c2c106adcea2f587c0d669ab_46476_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/17_hufa531d69c2c106adcea2f587c0d669ab_46476_1b199b9aa410478e14f1e5490ae70d9c.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;часть-4-беспроводные-сети-wi-fi&#34;&gt;Часть 4. Беспроводные сети Wi-fi&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-18&#34;&gt;Задание 18&lt;/a&gt;: Wi-Fi - это&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Wi-Fi - технология беспроводной локальной сети, работающая в соответствии со стандартом IEEE 802.11.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-18&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/18_hu497ef250570b2ab2ceaf9a6e3bb494b1_52900_e44ef2baae4fb46d915c9a462d389b91.webp 400w,
+               /project/course/image/18_hu497ef250570b2ab2ceaf9a6e3bb494b1_52900_80f41c543adbc03bb582df8adef307be.webp 760w,
+               /project/course/image/18_hu497ef250570b2ab2ceaf9a6e3bb494b1_52900_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/18_hu497ef250570b2ab2ceaf9a6e3bb494b1_52900_e44ef2baae4fb46d915c9a462d389b91.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;411&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-19&#34;&gt;Задание 19&lt;/a&gt;: На каком уровне работает протокол WiFi?&lt;/p&gt;
+&lt;p&gt;WiFi работает на канальном уровне.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-19&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/19_hub8503e839674c07e4cbefeacc672b101_43594_c8ad147aff2dec24b4174d13f353a610.webp 400w,
+               /project/course/image/19_hub8503e839674c07e4cbefeacc672b101_43594_bbf9192577380547f084697314aa13da.webp 760w,
+               /project/course/image/19_hub8503e839674c07e4cbefeacc672b101_43594_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/19_hub8503e839674c07e4cbefeacc672b101_43594_c8ad147aff2dec24b4174d13f353a610.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;401&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-20&#34;&gt;Задание 20&lt;/a&gt;: Небезопасный метод обеспечения шифрования и аутентификации в сети Wi-Fi.&lt;/p&gt;
+&lt;p&gt;Правильный ответ - WEP.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-20&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/20_hu31f868064dfa4cc508bbbb1e37fe5d43_42954_c953c24afca3b2cbbe7173b8df2c03f0.webp 400w,
+               /project/course/image/20_hu31f868064dfa4cc508bbbb1e37fe5d43_42954_097aacb31d6c231a21464ccf74fed040.webp 760w,
+               /project/course/image/20_hu31f868064dfa4cc508bbbb1e37fe5d43_42954_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/20_hu31f868064dfa4cc508bbbb1e37fe5d43_42954_c953c24afca3b2cbbe7173b8df2c03f0.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-21&#34;&gt;Задание 21&lt;/a&gt;: Данные между хостом сети (компьютером или смартфоном) и роутером.&lt;/p&gt;
+&lt;p&gt;Ответ - передаются в зашифрованном виде после аутентификации устройств.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-21&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/21_hu73cbeef97a3f4ffcb0ee955c7fb4f30f_54517_a959975c4dfcf23badbae7ab39e46048.webp 400w,
+               /project/course/image/21_hu73cbeef97a3f4ffcb0ee955c7fb4f30f_54517_91d0aa5e8e0f7e12fd49b306141e068f.webp 760w,
+               /project/course/image/21_hu73cbeef97a3f4ffcb0ee955c7fb4f30f_54517_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/21_hu73cbeef97a3f4ffcb0ee955c7fb4f30f_54517_a959975c4dfcf23badbae7ab39e46048.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;403&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-22&#34;&gt;Задание 22&lt;/a&gt;: Для домашней сети для аутентификации обычно используется метод&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Ответ - WPA2 Personal.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-22&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/22_hu859eb5eb474c745b71f220205d7b1335_42968_0356cc9ba66177b9b319b1d5f90102c0.webp 400w,
+               /project/course/image/22_hu859eb5eb474c745b71f220205d7b1335_42968_448470707ddb9a2683c1848d3a833e41.webp 760w,
+               /project/course/image/22_hu859eb5eb474c745b71f220205d7b1335_42968_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/22_hu859eb5eb474c745b71f220205d7b1335_42968_0356cc9ba66177b9b319b1d5f90102c0.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;362&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;модуль-2-защита-пктелефона&#34;&gt;Модуль 2. Защита ПК/телефона&lt;/h1&gt;
+&lt;h2 id=&#34;часть-1--шифрование-диска&#34;&gt;Часть 1.  Шифрование диска&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-23&#34;&gt;Задание 23&lt;/a&gt;: Можно ли зашифровать загрузочный сектор диска?&lt;/p&gt;
+&lt;p&gt;Ответ - да.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-23&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/23_hu248008675f9070533e55f1280f67524a_38861_d3d27779b4f1226e31eafd5d5d8c6858.webp 400w,
+               /project/course/image/23_hu248008675f9070533e55f1280f67524a_38861_0dfd4335e8e1e9dad5db56238b5464ff.webp 760w,
+               /project/course/image/23_hu248008675f9070533e55f1280f67524a_38861_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/23_hu248008675f9070533e55f1280f67524a_38861_d3d27779b4f1226e31eafd5d5d8c6858.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;368&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-24&#34;&gt;Задание 24&lt;/a&gt;: Шифрование диска основано на&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Шифрование диска основано на симметричном шифровании.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-24&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/24_hu7851f66e8f43fef72e59fac614650802_42099_3cba3f52f2339043b419ad1f26201e93.webp 400w,
+               /project/course/image/24_hu7851f66e8f43fef72e59fac614650802_42099_38a9da0c11909ce8b50cb03e64149db8.webp 760w,
+               /project/course/image/24_hu7851f66e8f43fef72e59fac614650802_42099_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/24_hu7851f66e8f43fef72e59fac614650802_42099_3cba3f52f2339043b419ad1f26201e93.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;387&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-25&#34;&gt;Задание 25&lt;/a&gt;: С помощью каких программ можно зашифровать жесткий диск?&lt;/p&gt;
+&lt;p&gt;В лекции темы были представлены такие программы как BitLocker и VeraCrypt.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-25&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/25_hu0dd00dc4b388dafd8c3d4711a0e2c04e_59460_69223b737abe3e6895d007398e40c84b.webp 400w,
+               /project/course/image/25_hu0dd00dc4b388dafd8c3d4711a0e2c04e_59460_b704f5f8dbd9253dcd2716851b733b16.webp 760w,
+               /project/course/image/25_hu0dd00dc4b388dafd8c3d4711a0e2c04e_59460_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/25_hu0dd00dc4b388dafd8c3d4711a0e2c04e_59460_69223b737abe3e6895d007398e40c84b.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;часть-2-пароли&#34;&gt;Часть 2. Пароли&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-26&#34;&gt;Задание 26&lt;/a&gt;: Какие пароли можно отнести к стойким?&lt;/p&gt;
+&lt;p&gt;Чем больше типов символов (заглавные и строчные буквы, цифры, специальные символы), тем труднее подобрать пароль перебором. Поэтому вариант UQr9@j4!S$ можно отнести к стойким.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-26&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/26_hu508d2a2a6f1e73eb59a44e33f0011a3a_42226_22c44f785663d7911752920bdea59c3f.webp 400w,
+               /project/course/image/26_hu508d2a2a6f1e73eb59a44e33f0011a3a_42226_7b50927b2f77e46472aeb5f6d199e586.webp 760w,
+               /project/course/image/26_hu508d2a2a6f1e73eb59a44e33f0011a3a_42226_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/26_hu508d2a2a6f1e73eb59a44e33f0011a3a_42226_22c44f785663d7911752920bdea59c3f.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;403&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-27&#34;&gt;Задание 27&lt;/a&gt;: Где безопасно хранить пароли?&lt;/p&gt;
+&lt;p&gt;Из представленных вариантов самый безопасный - менеджер паролей.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-27&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/27_hua017c5323e2420c91638b4e2fdba708d_46126_e2ffa7d4f8eb4f501e94303cf30a43f2.webp 400w,
+               /project/course/image/27_hua017c5323e2420c91638b4e2fdba708d_46126_28aa78ed2edf261bc856ee8aebd3f89c.webp 760w,
+               /project/course/image/27_hua017c5323e2420c91638b4e2fdba708d_46126_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/27_hua017c5323e2420c91638b4e2fdba708d_46126_e2ffa7d4f8eb4f501e94303cf30a43f2.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-28&#34;&gt;Задание 28&lt;/a&gt;: Зачем нужна капча?&lt;/p&gt;
+&lt;p&gt;Капча нужна для защиты от автоматизированных атак, направленных на получение несанкционированного доступа.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-28&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/28_hu64765cb8d7c9eee5be73627e64f2ddbf_50519_0980b72dad7e287a93386ba139fd2229.webp 400w,
+               /project/course/image/28_hu64765cb8d7c9eee5be73627e64f2ddbf_50519_c55edac53d8961cbba0557b26be6190b.webp 760w,
+               /project/course/image/28_hu64765cb8d7c9eee5be73627e64f2ddbf_50519_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/28_hu64765cb8d7c9eee5be73627e64f2ddbf_50519_0980b72dad7e287a93386ba139fd2229.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;406&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-29&#34;&gt;Задание 29&lt;/a&gt;: Для чего применяется хэширование паролей?&lt;/p&gt;
+&lt;p&gt;Хэширование паролей нужно для того, чтобы не хранить пароли на сервере в открытом виде.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-29&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/29_hub536a522ed990bb5acd203b3be368f6d_52939_c6fe576f5744c06147e0115ffc2a7d45.webp 400w,
+               /project/course/image/29_hub536a522ed990bb5acd203b3be368f6d_52939_0770fd80fc96f89a673240da1f58c138.webp 760w,
+               /project/course/image/29_hub536a522ed990bb5acd203b3be368f6d_52939_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/29_hub536a522ed990bb5acd203b3be368f6d_52939_c6fe576f5744c06147e0115ffc2a7d45.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-30&#34;&gt;Задание 30&lt;/a&gt;: Поможет ли соль для улучшения стойкости паролей к атаке перебором, если злоумышленник получил доступ к серверу?&lt;/p&gt;
+&lt;p&gt;Ответ - нет.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-30&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/30_hudae27b39ab8a6b0c02c809c0dcad3cc5_41621_f02e4de450d9f35a9fd741ceb461e99d.webp 400w,
+               /project/course/image/30_hudae27b39ab8a6b0c02c809c0dcad3cc5_41621_2ce97a859068470eeb2ef7d5a78b07a0.webp 760w,
+               /project/course/image/30_hudae27b39ab8a6b0c02c809c0dcad3cc5_41621_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/30_hudae27b39ab8a6b0c02c809c0dcad3cc5_41621_f02e4de450d9f35a9fd741ceb461e99d.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;367&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-31&#34;&gt;Задание 31&lt;/a&gt;: Какие меры защищают от утечек данных атакой перебором?&lt;/p&gt;
+&lt;p&gt;В этом задании подходят все перечисленные варианты: разные пароли на всех сайтах, периодическая смена паролей, сложные(=длинные) пароли, капча.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-31&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/31_hu01ebf42002bd1b5f41ef53de8f2889f0_60376_8f51c969fbe621a574784056facbee74.webp 400w,
+               /project/course/image/31_hu01ebf42002bd1b5f41ef53de8f2889f0_60376_40039229cac5f9733ad69944c65fc0bc.webp 760w,
+               /project/course/image/31_hu01ebf42002bd1b5f41ef53de8f2889f0_60376_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/31_hu01ebf42002bd1b5f41ef53de8f2889f0_60376_8f51c969fbe621a574784056facbee74.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;451&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;часть-3-фишинг&#34;&gt;Часть 3. Фишинг&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-32&#34;&gt;Задание 32&lt;/a&gt;: Какие из следующих ссылок являются фишинговыми?&lt;/p&gt;
+&lt;p&gt;В данном случае ссылки &lt;a href=&#34;https://online.sberbank.wix.ru/CSAFront/index.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://online.sberbank.wix.ru/CSAFront/index.do&lt;/a&gt; и &lt;a href=&#34;https://passport.yandex.ucoz.ru/auth?origin=home_desktop_ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://passport.yandex.ucoz.ru/auth?origin=home_desktop_ru&lt;/a&gt; являются фишинговыми.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-32&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/32_hubd5440d6047e8579e0e69d8d5607e8d1_69584_23c17a8dbf4c725f162b2f9d340c3342.webp 400w,
+               /project/course/image/32_hubd5440d6047e8579e0e69d8d5607e8d1_69584_269e499e7334af6f25d8c0efb083c651.webp 760w,
+               /project/course/image/32_hubd5440d6047e8579e0e69d8d5607e8d1_69584_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/32_hubd5440d6047e8579e0e69d8d5607e8d1_69584_23c17a8dbf4c725f162b2f9d340c3342.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;449&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-33&#34;&gt;Задание 33&lt;/a&gt;: Может ли фишинговый имейл прийти от знакомого адреса?&lt;/p&gt;
+&lt;p&gt;Да, так как  классический протокол отправки писем (SMTP) не включает проверку адреса отправителя.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/33_hua5bed1a3f6bad0219635036911f85fc0_38306_2adeee17a9fba3087bdc170cb09e67ef.webp 400w,
+               /project/course/image/33_hua5bed1a3f6bad0219635036911f85fc0_38306_0533577105b2cbb7178c87ac66e0c9b7.webp 760w,
+               /project/course/image/33_hua5bed1a3f6bad0219635036911f85fc0_38306_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/33_hua5bed1a3f6bad0219635036911f85fc0_38306_2adeee17a9fba3087bdc170cb09e67ef.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;361&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;часть-4-вирусы-примеры&#34;&gt;Часть 4. Вирусы. Примеры&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-34&#34;&gt;Задание 34&lt;/a&gt;: Email Спуфинг - это&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Email Спуфинг - подмена адреса отправителя в имейлах.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-34&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/34_hua8739f179102cc16f14659ca961619d7_44391_449a696142997e0f5ef2a1e7c3592a11.webp 400w,
+               /project/course/image/34_hua8739f179102cc16f14659ca961619d7_44391_e53a0800dbaa4c86807e9f5f3cd606c6.webp 760w,
+               /project/course/image/34_hua8739f179102cc16f14659ca961619d7_44391_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/34_hua8739f179102cc16f14659ca961619d7_44391_449a696142997e0f5ef2a1e7c3592a11.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;402&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-35&#34;&gt;Задание 35&lt;/a&gt;: Вирус-троян&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Вирус-троян маскируется под легитимную программу.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-35&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/35_hu1025664f45e2d3ada75d4a7ac2e0ed6a_48059_7b96e8aff75e08f0a42e3e0d0112ebc3.webp 400w,
+               /project/course/image/35_hu1025664f45e2d3ada75d4a7ac2e0ed6a_48059_982983944027c5540c65cbfea80b6030.webp 760w,
+               /project/course/image/35_hu1025664f45e2d3ada75d4a7ac2e0ed6a_48059_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/35_hu1025664f45e2d3ada75d4a7ac2e0ed6a_48059_7b96e8aff75e08f0a42e3e0d0112ebc3.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;410&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;часть-5-безопасность-мессенджеров&#34;&gt;Часть 5. Безопасность мессенджеров&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-36&#34;&gt;Задание 36&lt;/a&gt;: На каком этапе формируется ключ шифрования в протоколе мессенджеров Signal?&lt;/p&gt;
+&lt;p&gt;Ключ шифрования формируется при генерации первого сообщения стороной-отправителем.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-36&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/36_hub2fb7d4a3aa72165a92fdcdade64bc8f_53002_9b124e3f59dd3b28ebecac26ffd85d2a.webp 400w,
+               /project/course/image/36_hub2fb7d4a3aa72165a92fdcdade64bc8f_53002_7778860f2c83b81ba4bb70f75255c686.webp 760w,
+               /project/course/image/36_hub2fb7d4a3aa72165a92fdcdade64bc8f_53002_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/36_hub2fb7d4a3aa72165a92fdcdade64bc8f_53002_9b124e3f59dd3b28ebecac26ffd85d2a.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;407&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-37&#34;&gt;Задание 37&lt;/a&gt;: Суть сквозного шифрования состоит в том, что&amp;hellip;&lt;/p&gt;
+&lt;p&gt;При сквозном шифровании сообщения передаются по узлам связи (серверам) в зашифрованном виде.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-37&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/37_hubc28043bdb78e5dbc382f5cbc0b06261_57079_2d2af5f6d66ef90b345ab35ea1d7d8a6.webp 400w,
+               /project/course/image/37_hubc28043bdb78e5dbc382f5cbc0b06261_57079_85ac4dfaf9c5d7d5632b461ad0944f13.webp 760w,
+               /project/course/image/37_hubc28043bdb78e5dbc382f5cbc0b06261_57079_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/37_hubc28043bdb78e5dbc382f5cbc0b06261_57079_2d2af5f6d66ef90b345ab35ea1d7d8a6.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;модуль-3-криптография-на-практике&#34;&gt;Модуль 3. Криптография на практике&lt;/h1&gt;
+&lt;h2 id=&#34;часть-1-введение-в-криптографию&#34;&gt;Часть 1. Введение в криптографию&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-38&#34;&gt;Задание 38&lt;/a&gt;: В асимметричных криптографических примитивах&amp;hellip;&lt;/p&gt;
+&lt;p&gt;В асимметричных криптографических примитивах обе стороны имеют пару ключей.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-38&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/38_hu1da9a48bd2b696b52f22ce6c962d93a8_55568_c2991883535478f3014dc6e44db4fe54.webp 400w,
+               /project/course/image/38_hu1da9a48bd2b696b52f22ce6c962d93a8_55568_c9f769e7a884373dce07c230e84e7978.webp 760w,
+               /project/course/image/38_hu1da9a48bd2b696b52f22ce6c962d93a8_55568_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/38_hu1da9a48bd2b696b52f22ce6c962d93a8_55568_c2991883535478f3014dc6e44db4fe54.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;408&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-39&#34;&gt;Задание 39&lt;/a&gt;: Криптографическая хэш-функция&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Криптографическая хэш-функция дает на выходе фиксированное число бит независимо от объема входных данных, эффективно вычисляется, стойкая к коллизиям.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-39&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/39_hu9af3dc10e498904dd806f9880f73141a_67638_ab486bbe44668093ffe98c318d37e42d.webp 400w,
+               /project/course/image/39_hu9af3dc10e498904dd806f9880f73141a_67638_41172814c37a5f3763997ad6d2d07de5.webp 760w,
+               /project/course/image/39_hu9af3dc10e498904dd806f9880f73141a_67638_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/39_hu9af3dc10e498904dd806f9880f73141a_67638_ab486bbe44668093ffe98c318d37e42d.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;464&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-40&#34;&gt;Задание 40&lt;/a&gt;: К алгоритмам цифровой подписи относятся&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Алгоритмы цифровой подписи: RSA, ECDSA, ГОСТ Р 34.10-2012.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-40&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/40_hu12ccfad73a0e429afd43c944f2b8dbe9_58491_c9a3f6abc86d5d50b9cbf46fe650de9e.webp 400w,
+               /project/course/image/40_hu12ccfad73a0e429afd43c944f2b8dbe9_58491_8bc483da90b3ed7cff1bc6d7d508c882.webp 760w,
+               /project/course/image/40_hu12ccfad73a0e429afd43c944f2b8dbe9_58491_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/40_hu12ccfad73a0e429afd43c944f2b8dbe9_58491_c9a3f6abc86d5d50b9cbf46fe650de9e.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;479&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-41&#34;&gt;Задание 41&lt;/a&gt;: Код аутентификации сообщения относится к&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Код аутентификации сообщения относится к симметричным примитивам.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-41&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/41_hu10cefbc08cec9cc5410bb3ec41f8451e_40253_af78a14310186966280430cd869a46ec.webp 400w,
+               /project/course/image/41_hu10cefbc08cec9cc5410bb3ec41f8451e_40253_bec489635d67120009f24f171f810901.webp 760w,
+               /project/course/image/41_hu10cefbc08cec9cc5410bb3ec41f8451e_40253_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/41_hu10cefbc08cec9cc5410bb3ec41f8451e_40253_af78a14310186966280430cd869a46ec.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;350&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-42&#34;&gt;Задание 42&lt;/a&gt;: Обмен ключам Диффи-Хэллмана - это&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Обмен ключам Диффи-Хэллмана - это асимметричный примитив генерации общего секретного ключа.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-42&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/42_hu5828a9f10b93b989aad5458bc2a81a28_53558_ba2145cf702a43d07a9667907b51e078.webp 400w,
+               /project/course/image/42_hu5828a9f10b93b989aad5458bc2a81a28_53558_8db2c669a0a6481f6f25e77b77ba34de.webp 760w,
+               /project/course/image/42_hu5828a9f10b93b989aad5458bc2a81a28_53558_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/42_hu5828a9f10b93b989aad5458bc2a81a28_53558_ba2145cf702a43d07a9667907b51e078.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;406&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;часть-2-цифровая-подпись&#34;&gt;Часть 2. Цифровая подпись&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-43&#34;&gt;Задание 43&lt;/a&gt;: Протокол электронной цифровой подписи относится к&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Протокол электронной цифровой подписи относится к протоколам с открытым ключом.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-43&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/43_hu35038faaea1e14f7c372095159f8479b_47321_faf27baab5504eaf9890c25bbcc8d102.webp 400w,
+               /project/course/image/43_hu35038faaea1e14f7c372095159f8479b_47321_76e8d3829bf5b6c2357ee9f9e4f4c4ee.webp 760w,
+               /project/course/image/43_hu35038faaea1e14f7c372095159f8479b_47321_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/43_hu35038faaea1e14f7c372095159f8479b_47321_faf27baab5504eaf9890c25bbcc8d102.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;366&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-44&#34;&gt;Задание 44&lt;/a&gt;: Алгоритм верификации электронной цифровой подписи требует на вход&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Алгоритм верификации электронной цифровой подписи требует на вход подпись, открытый ключ и сообщение.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-44&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/44_hu1ed25428b690fd34c7655e94c3295527_50317_5ed8f4caef52971aa12a1f835e74daf6.webp 400w,
+               /project/course/image/44_hu1ed25428b690fd34c7655e94c3295527_50317_bc11598bd08298abda7b61a66947d6c8.webp 760w,
+               /project/course/image/44_hu1ed25428b690fd34c7655e94c3295527_50317_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/44_hu1ed25428b690fd34c7655e94c3295527_50317_5ed8f4caef52971aa12a1f835e74daf6.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;406&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-45&#34;&gt;Задание 45&lt;/a&gt;: Электронная цифровая подпись не обеспечивает&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Из данных вариантов электронная цифровая подпись не обеспечивает конфиденциальность.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-45&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/45_hu37464026b37473cb4625f140606e3f39_42777_6a6efc4e7b75059df9db528e21f1b308.webp 400w,
+               /project/course/image/45_hu37464026b37473cb4625f140606e3f39_42777_74bc2b43f9a02593689e5d8c0e6b8ea4.webp 760w,
+               /project/course/image/45_hu37464026b37473cb4625f140606e3f39_42777_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/45_hu37464026b37473cb4625f140606e3f39_42777_6a6efc4e7b75059df9db528e21f1b308.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;407&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-46&#34;&gt;Задание 46&lt;/a&gt;: Какой тип сертификата электронной подписи понадобится для отправки налоговой отчетности в ФНС?&lt;/p&gt;
+&lt;p&gt;Для отправки налоговой отчетности в ФНС понадобится усиленная квалифицированная подпись.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-46&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/46_hu81cf96b3edb0d27b5356b54a8aebe188_48175_5a82b13a1422f4afe8b21d1921946458.webp 400w,
+               /project/course/image/46_hu81cf96b3edb0d27b5356b54a8aebe188_48175_5745501cd8852c6ddaf769622b7127f6.webp 760w,
+               /project/course/image/46_hu81cf96b3edb0d27b5356b54a8aebe188_48175_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/46_hu81cf96b3edb0d27b5356b54a8aebe188_48175_5a82b13a1422f4afe8b21d1921946458.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-47&#34;&gt;Задание 47&lt;/a&gt;: В какой организации вы можете получить квалифицированный сертификат ключа проверки электронной подписи?&lt;/p&gt;
+&lt;p&gt;Ответ - в удостоверяющем (сертификационном) центре.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-47&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/47_hu976187d85eaa56c60be38b32bd3cfc2f_56873_8254205b435d437a8c535a03aace9162.webp 400w,
+               /project/course/image/47_hu976187d85eaa56c60be38b32bd3cfc2f_56873_335b86da25a5d58201f0d2fe5a91d2cb.webp 760w,
+               /project/course/image/47_hu976187d85eaa56c60be38b32bd3cfc2f_56873_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/47_hu976187d85eaa56c60be38b32bd3cfc2f_56873_8254205b435d437a8c535a03aace9162.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;410&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;часть-3-электронные-платежи&#34;&gt;Часть 3. Электронные платежи&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-48&#34;&gt;Задание 48&lt;/a&gt;: Выберите из списка все платежные системы.&lt;/p&gt;
+&lt;p&gt;Ответ - MasterCard и МИР.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-48&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/48_hu357f67c4254dfc7e40fe1e92e89cac14_60729_e5ff9626d7ddfd2bc17937e8e20ff884.webp 400w,
+               /project/course/image/48_hu357f67c4254dfc7e40fe1e92e89cac14_60729_d80b412cae815f9d7ec92d6cb3c9f357.webp 760w,
+               /project/course/image/48_hu357f67c4254dfc7e40fe1e92e89cac14_60729_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/48_hu357f67c4254dfc7e40fe1e92e89cac14_60729_e5ff9626d7ddfd2bc17937e8e20ff884.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;497&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-49&#34;&gt;Задание 49&lt;/a&gt;: Примером многофакторной аутентификации является&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Многофакторная аутентификация - комбинация проверка пароля + код в sms сообщении, комбинация код в sms сообщении + отпечаток пальца.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-49&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/49_hu88b514357e30e4aebdebf71496c2581a_66029_84e6183e1416b59faa926da31bc94045.webp 400w,
+               /project/course/image/49_hu88b514357e30e4aebdebf71496c2581a_66029_886ff723882051cde16a2e8863b04307.webp 760w,
+               /project/course/image/49_hu88b514357e30e4aebdebf71496c2581a_66029_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/49_hu88b514357e30e4aebdebf71496c2581a_66029_84e6183e1416b59faa926da31bc94045.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-50&#34;&gt;Задание 50&lt;/a&gt;: При онлайн платежах сегодня используется&amp;hellip;&lt;/p&gt;
+&lt;p&gt;При онлайн платежах сегодня используется многофакторная аутентификация покупателя перед банком-эмитентом.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-50&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/50_hue5b6eb4f16fd501ca4b064dd62652e8b_57094_b495007f2d933313ed7c0f311628da5d.webp 400w,
+               /project/course/image/50_hue5b6eb4f16fd501ca4b064dd62652e8b_57094_b5f30a3d69957cac45566b3947bc1647.webp 760w,
+               /project/course/image/50_hue5b6eb4f16fd501ca4b064dd62652e8b_57094_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/50_hue5b6eb4f16fd501ca4b064dd62652e8b_57094_b495007f2d933313ed7c0f311628da5d.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;часть-4-блокчейн&#34;&gt;Часть 4. Блокчейн&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#figure-51&#34;&gt;Задание 51&lt;/a&gt;: Какое свойство криптографической хэш-функции используется в доказательстве работы?&lt;/p&gt;
+&lt;p&gt;Ответ - сложность нахождения прообраза.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-51&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/51_hu16733062189f2338c25c624d18679287_46908_7ecc534ad3e94a1c1c35cfed6b5c886c.webp 400w,
+               /project/course/image/51_hu16733062189f2338c25c624d18679287_46908_d3115e9e381feed25abd4d564e814453.webp 760w,
+               /project/course/image/51_hu16733062189f2338c25c624d18679287_46908_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/51_hu16733062189f2338c25c624d18679287_46908_7ecc534ad3e94a1c1c35cfed6b5c886c.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;407&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-52&#34;&gt;Задание 52&lt;/a&gt;: Консенсус в некоторых системах блокчейн обладает свойствами&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Свойства консенсуса в некоторых системах блокчейн: постоянство, открытость, живучесть, консенсус.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-52&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/52_hu03ca3469bb3901d28703eb202d704484_57200_761603529bf8992ee4e130cb613d7a3c.webp 400w,
+               /project/course/image/52_hu03ca3469bb3901d28703eb202d704484_57200_c3df2ff4d0c92b9b3673d68173fd79b0.webp 760w,
+               /project/course/image/52_hu03ca3469bb3901d28703eb202d704484_57200_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/52_hu03ca3469bb3901d28703eb202d704484_57200_761603529bf8992ee4e130cb613d7a3c.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;449&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;#figure-53&#34;&gt;Задание 53&lt;/a&gt;: Секретные ключи какого криптографического примитива хранят участники блокчейна?&lt;/p&gt;
+&lt;p&gt;Ответ - цифровая подпись.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-53&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/53_hua0fe21adf3487db87aeadccc30985c01_43987_0538d5bd163119e17cd086da220bba31.webp 400w,
+               /project/course/image/53_hua0fe21adf3487db87aeadccc30985c01_43987_e4aa20b7f7841d284475597e575815e4.webp 760w,
+               /project/course/image/53_hua0fe21adf3487db87aeadccc30985c01_43987_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/53_hua0fe21adf3487db87aeadccc30985c01_43987_0538d5bd163119e17cd086da220bba31.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;411&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;результат&#34;&gt;Результат&lt;/h2&gt;
+&lt;p&gt;В этом курсе не выдается сертификат. Но после прохождения последнего задания появляется &lt;a href=&#34;#figure-result&#34;&gt;окно&lt;/a&gt;, уведомляющее о том, что курс пройден. Ответ - цифровая подпись.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-result&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/course/image/result_hu757e04691b104c30d944acff4eb08464_60179_03cb29c83ae8fe78bdab95a05e0e8444.webp 400w,
+               /project/course/image/result_hu757e04691b104c30d944acff4eb08464_60179_d20bcfe513065b367dfe8f67d3cd5fb5.webp 760w,
+               /project/course/image/result_hu757e04691b104c30d944acff4eb08464_60179_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/course/image/result_hu757e04691b104c30d944acff4eb08464_60179_03cb29c83ae8fe78bdab95a05e0e8444.webp&#34;
+               width=&#34;70%&#34;
+               height=&#34;597&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;При прохождении данного курса мы рассмотрели работу Интернета и его &amp;ldquo;слабых мест&amp;rdquo;, научились отличать шифрование от электронной подписи и узнали, как работают электронные платежи.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
